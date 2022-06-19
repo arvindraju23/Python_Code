@@ -1,0 +1,5 @@
+print('Hello World', "Welcome to the world of python")
+print(20)
+print(20>40)
+print(29<39)
+print("Arvind, Girindra", 45)

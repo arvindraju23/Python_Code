@@ -1,0 +1,9 @@
+a=49
+b=39
+print(a,b)
+print(id(a),id(b))
+c="Hello"
+print(c)
+print(c)
+print(c)
+print(c)
